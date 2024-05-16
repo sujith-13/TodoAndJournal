@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "598564929780",
+    "project_id": "journal-app-f3021",
+    "storage_bucket": "journal-app-f3021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598564929780:android:ecec8692b5719d52b29ea1",
+        "android_client_info": {
+          "package_name": "com.example.todolist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhGdgeIDBk-xxNeE3zGd8-3tNMznM4eGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
